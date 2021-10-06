@@ -1,8 +1,8 @@
 # TodoList on React hooks</br>
 * Using functional components
 * Hooks
-* bootstrap
-* react module css </br></br>
+* Bootstrap
+* React module css </br></br>
 
 ### <a href="https://todolist-onfunctional.web.app/">Link to view the project on Firebase</a>
 
