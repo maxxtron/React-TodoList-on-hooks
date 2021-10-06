@@ -5,5 +5,5 @@
 
 ### How to start a project:
 * in the project folder, run the following commands in order:
-1. npm i
+  1. npm i
   2. npm start
