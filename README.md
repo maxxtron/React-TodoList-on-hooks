@@ -4,7 +4,7 @@
 ![Илюстрация картинкии](https://github.com/maxxtron/project-photo/blob/main/Functional-Todo.png)
 
 ### How to start a project:
-* clone the repository
-* in the project folder, run the following commands in order:
-1. npm i
-2. npm start
+* Clone the repository
+* In project folder, launch a terminal or cmd and run the following commands in order:
+  1. npm i
+  2. npm start
