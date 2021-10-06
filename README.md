@@ -1,4 +1,4 @@
-# TodoList on React </br>
+# TodoList on React hooks</br>
 * Using functional components
 * Hooks
 * bootstrap
