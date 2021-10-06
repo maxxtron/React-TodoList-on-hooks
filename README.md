@@ -8,6 +8,7 @@
 
 ### Example: </br>
 ![Илюстрация картинкии](https://github.com/maxxtron/project-photo/blob/main/Functional-Todo.png)
+![Илюстрация картинкии](https://files.fm/pa/maxxtron93/Functional-Todo.png/Functional-Todo.png)
 
 ### How to start a project:
 1. Clone the repository
